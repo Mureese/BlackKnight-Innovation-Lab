@@ -3,7 +3,9 @@ Interview challenge
 
 This was a fun challenge really put some of my skills to the test.
 
-I didn't have the time to do everything the best practices way. I am actually on vacation and have been working on this a couple of hours a night. I did quite a bit in console, so there won't be any code for some things but I will describe how I did them in my video. 
+I didn't have the time to do everything the best practices way. I am actually on vacation and have been working on this a couple of hours a night. I did quite a bit in console, so there won't be any code for some things but I will describe how I did them in my video.
+
+
 
 
 # Architecture
@@ -33,3 +35,9 @@ The Lambda takes the request parses the data out and sends it to the model endpo
 
 Sits infront of a Blazingtext text classifier model. The model was trained with a automatic Hyperparmeter tuning job. The objective was to maximize validation accuracy. The best Model it produced had 85.7% accuracy on testing set while having 87% on training set. 
 
+
+## Video
+
+My Video Walk through
+https://youtu.be/dsTN9TS5kjE part 1
+https://youtu.be/Y-bWbUzWb3s part 2
