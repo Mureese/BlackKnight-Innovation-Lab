@@ -23,7 +23,7 @@ you can add and subtract data to the data.json files to test in batches. The con
 
 ## API
 
-The api is using a POST method for a resource named "Model" within a "prod" stage. Don't worry about the API Key I have throttled the API with limits. Only 3 request per seconds and only 400 requests per month are allowed by this API Key. Hopefully thats enough for you to test.
+The api is using a POST method for a resource named "Model" within a "prod" stage. Don't worry about the API Key I have throttled the API with limits. Only 3 request per seconds and only 400 requests per month are allowed by this API Key. Hopefully thats enough for you to test. This Solution will be deleted on June 26 2020 at 5 pm eastern. If you finish testing before then please contact me at mureese.javon@gmail.com so I can terminate resources early and save my self a few nickles. 
 
 ## Lambda
 
